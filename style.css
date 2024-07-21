@@ -1,0 +1,12 @@
+body {background-color: #f8e8a6;}
+h1, p {text-align: center;}
+.links {display: flex;
+        justify-content: center;}
+a {color: green;}
+.mail {color: blue;}
+.picture {display:block;
+margin: auto;
+border-radius: 8px;
+margin-bottom: 20px;}
+.home {margin-right: 15px;}
+.photo {margin-right: 15px;}
